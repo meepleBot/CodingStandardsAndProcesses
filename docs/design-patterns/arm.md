@@ -1,15 +1,14 @@
 # Arm Design Pattern
 n arm is...
 
-# Motor Configuration Parameters
+## Motor Configuration Parameters
 sdlkfasdjf
 
-# Motor Control Modes
+## Motor Control Modes
 sdfasdf
 
-# Simulation
+## Simulation
 
-K#
-a#
-a#
-A
+WPILib simuation class used : SingleJointedArmSim
+imulationPoeriodic: 
+S
