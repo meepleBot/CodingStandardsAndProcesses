@@ -1,22 +1,21 @@
-# Method Order
-
-Methods within a class SHOULD be in the following order.
-
-Construct
 
 
-Perc
+ Code Class Orgaanization
+#
 
-ic
-Co
 
-andse
+## Method Order
 
-tters
-Other Public function
-Private functions
-simulationInit()
-imulationPeriodic()
-s
-P
-Other functions
+Methods should appear in the following order
+
+- Constructor 
+-  Periodic
+- idle() Command
+- Other  Commands
+- Getters and Setters
+- Public functions
+- Private functions
+- simulationInt()
+- simulationPer
+
+ ## Naming  iodic()
